@@ -360,6 +360,12 @@ class LiteLLMRoutes(enum.Enum):
         # OCR
         "/ocr",
         "/v1/ocr",
+        # Tokenize
+        "/tokenize",
+        "/v1/tokenize",
+        # Docling provider
+        "/docling/*",
+        "/v1/docling/*",
 
         # containers API
         "/containers",

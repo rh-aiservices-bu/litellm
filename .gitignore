@@ -95,6 +95,7 @@ test.py
 
 litellm_config.yaml
 .cursor
+.claude/settings.local.json
 .vscode/launch.json
 litellm/proxy/to_delete_loadtest_work/*
 update_model_cost_map.py
